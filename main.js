@@ -7,7 +7,16 @@ var icons_brands = fetch('./icons_brands.json')
     .then((json) => loadIcons(json, 'brands'));
 
 function loadIcons(json, type) {
-    const container = document.querySelector('#icon-container')
+    json.icons = json.icons.sort((previous, next) => {
+        if (previous.name < next.name) {
+            return -1
+        }
+        if (previous.name > next.name) {
+            return 1;
+        }
+        return 0;
+    })
+    const container = document.querySelector(`#icon-container-${type}`)
     json.icons.map(icon => {
         const card = document.createElement('div')
         const title = document.createElement('h6')
