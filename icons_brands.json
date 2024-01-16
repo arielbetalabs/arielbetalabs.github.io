@@ -1,0 +1,1372 @@
+{
+    "icons": [
+        {
+            "name": "zhihu"
+        },
+        {
+            "name": "youtube-square"
+        },
+        {
+            "name": "youtube"
+        },
+        {
+            "name": "yoast"
+        },
+        {
+            "name": "yelp"
+        },
+        {
+            "name": "yarn"
+        },
+        {
+            "name": "yandex-international"
+        },
+        {
+            "name": "yandex"
+        },
+        {
+            "name": "yammer"
+        },
+        {
+            "name": "yahoo"
+        },
+        {
+            "name": "y-combinator"
+        },
+        {
+            "name": "xing-square"
+        },
+        {
+            "name": "xing"
+        },
+        {
+            "name": "xbox"
+        },
+        {
+            "name": "wpressr"
+        },
+        {
+            "name": "wpforms"
+        },
+        {
+            "name": "wpexplorer"
+        },
+        {
+            "name": "wpbeginner"
+        },
+        {
+            "name": "wordpress-simple"
+        },
+        {
+            "name": "wordpress"
+        },
+        {
+            "name": "wolf-pack-battalion"
+        },
+        {
+            "name": "wodu"
+        },
+        {
+            "name": "wizards-of-the-coast"
+        },
+        {
+            "name": "wix"
+        },
+        {
+            "name": "windows"
+        },
+        {
+            "name": "wikipedia-w"
+        },
+        {
+            "name": "whmcs"
+        },
+        {
+            "name": "whatsapp-square"
+        },
+        {
+            "name": "whatsapp"
+        },
+        {
+            "name": "weixin"
+        },
+        {
+            "name": "weibo"
+        },
+        {
+            "name": "weebly"
+        },
+        {
+            "name": "waze"
+        },
+        {
+            "name": "watchman-monitoring"
+        },
+        {
+            "name": "vuejs"
+        },
+        {
+            "name": "vnv"
+        },
+        {
+            "name": "vk"
+        },
+        {
+            "name": "vine"
+        },
+        {
+            "name": "vimeo-v"
+        },
+        {
+            "name": "vimeo-square"
+        },
+        {
+            "name": "vimeo"
+        },
+        {
+            "name": "viber"
+        },
+        {
+            "name": "viadeo-square"
+        },
+        {
+            "name": "viadeo"
+        },
+        {
+            "name": "viacoin"
+        },
+        {
+            "name": "vaadin"
+        },
+        {
+            "name": "ussunnah"
+        },
+        {
+            "name": "usps"
+        },
+        {
+            "name": "usb"
+        },
+        {
+            "name": "ups"
+        },
+        {
+            "name": "untappd"
+        },
+        {
+            "name": "unsplash"
+        },
+        {
+            "name": "unity"
+        },
+        {
+            "name": "uniregistry"
+        },
+        {
+            "name": "uncharted"
+        },
+        {
+            "name": "umbraco"
+        },
+        {
+            "name": "uikit"
+        },
+        {
+            "name": "ubuntu"
+        },
+        {
+            "name": "uber"
+        },
+        {
+            "name": "typo3"
+        },
+        {
+            "name": "twitter-square"
+        },
+        {
+            "name": "twitter"
+        },
+        {
+            "name": "twitch"
+        },
+        {
+            "name": "tumblr-square"
+        },
+        {
+            "name": "tumblr"
+        },
+        {
+            "name": "trello"
+        },
+        {
+            "name": "trade-federation"
+        },
+        {
+            "name": "tiktok"
+        },
+        {
+            "name": "think-peaks"
+        },
+        {
+            "name": "themeisle"
+        },
+        {
+            "name": "themeco"
+        },
+        {
+            "name": "the-red-yeti"
+        },
+        {
+            "name": "tencent-weibo"
+        },
+        {
+            "name": "telegram-plane"
+        },
+        {
+            "name": "telegram"
+        },
+        {
+            "name": "teamspeak"
+        },
+        {
+            "name": "symfony"
+        },
+        {
+            "name": "swift"
+        },
+        {
+            "name": "suse"
+        },
+        {
+            "name": "supple"
+        },
+        {
+            "name": "superpowers"
+        },
+        {
+            "name": "stumbleupon-circle"
+        },
+        {
+            "name": "stumbleupon"
+        },
+        {
+            "name": "studiovinari"
+        },
+        {
+            "name": "stripe-s"
+        },
+        {
+            "name": "stripe"
+        },
+        {
+            "name": "strava"
+        },
+        {
+            "name": "sticker-mule"
+        },
+        {
+            "name": "steam-symbol"
+        },
+        {
+            "name": "steam-square"
+        },
+        {
+            "name": "steam"
+        },
+        {
+            "name": "staylinked"
+        },
+        {
+            "name": "stackpath"
+        },
+        {
+            "name": "stack-overflow"
+        },
+        {
+            "name": "stack-exchange"
+        },
+        {
+            "name": "squarespace"
+        },
+        {
+            "name": "spotify"
+        },
+        {
+            "name": "speaker-deck"
+        },
+        {
+            "name": "speakap"
+        },
+        {
+            "name": "sourcetree"
+        },
+        {
+            "name": "soundcloud"
+        },
+        {
+            "name": "snapchat-square"
+        },
+        {
+            "name": "snapchat-ghost"
+        },
+        {
+            "name": "snapchat"
+        },
+        {
+            "name": "slideshare"
+        },
+        {
+            "name": "slack-hash"
+        },
+        {
+            "name": "slack"
+        },
+        {
+            "name": "skype"
+        },
+        {
+            "name": "skyatlas"
+        },
+        {
+            "name": "sketch"
+        },
+        {
+            "name": "sith"
+        },
+        {
+            "name": "sistrix"
+        },
+        {
+            "name": "simplybuilt"
+        },
+        {
+            "name": "shopware"
+        },
+        {
+            "name": "shopify"
+        },
+        {
+            "name": "shirtsinbulk"
+        },
+        {
+            "name": "servicestack"
+        },
+        {
+            "name": "sellsy"
+        },
+        {
+            "name": "sellcast"
+        },
+        {
+            "name": "searchengin"
+        },
+        {
+            "name": "scribd"
+        },
+        {
+            "name": "schlix"
+        },
+        {
+            "name": "sass"
+        },
+        {
+            "name": "salesforce"
+        },
+        {
+            "name": "safari"
+        },
+        {
+            "name": "rust"
+        },
+        {
+            "name": "rockrms"
+        },
+        {
+            "name": "rocketchat"
+        },
+        {
+            "name": "rev"
+        },
+        {
+            "name": "resolving"
+        },
+        {
+            "name": "researchgate"
+        },
+        {
+            "name": "replyd"
+        },
+        {
+            "name": "renren"
+        },
+        {
+            "name": "redhat"
+        },
+        {
+            "name": "reddit-square"
+        },
+        {
+            "name": "reddit-alien"
+        },
+        {
+            "name": "reddit"
+        },
+        {
+            "name": "red-river"
+        },
+        {
+            "name": "rebel"
+        },
+        {
+            "name": "readme"
+        },
+        {
+            "name": "reacteurope"
+        },
+        {
+            "name": "react"
+        },
+        {
+            "name": "ravelry"
+        },
+        {
+            "name": "raspberry-pi"
+        },
+        {
+            "name": "r-project"
+        },
+        {
+            "name": "quora"
+        },
+        {
+            "name": "quinscape"
+        },
+        {
+            "name": "qq"
+        },
+        {
+            "name": "python"
+        },
+        {
+            "name": "pushed"
+        },
+        {
+            "name": "product-hunt"
+        },
+        {
+            "name": "playstation"
+        },
+        {
+            "name": "pinterest-square"
+        },
+        {
+            "name": "pinterest-p"
+        },
+        {
+            "name": "pinterest"
+        },
+        {
+            "name": "pied-piper-square"
+        },
+        {
+            "name": "pied-piper-pp"
+        },
+        {
+            "name": "pied-piper-hat"
+        },
+        {
+            "name": "pied-piper-alt"
+        },
+        {
+            "name": "pied-piper"
+        },
+        {
+            "name": "php"
+        },
+        {
+            "name": "phoenix-squadron"
+        },
+        {
+            "name": "phoenix-framework"
+        },
+        {
+            "name": "phabricator"
+        },
+        {
+            "name": "periscope"
+        },
+        {
+            "name": "perbyte"
+        },
+        {
+            "name": "penny-arcade"
+        },
+        {
+            "name": "paypal"
+        },
+        {
+            "name": "patreon"
+        },
+        {
+            "name": "palfed"
+        },
+        {
+            "name": "pagelines"
+        },
+        {
+            "name": "page4"
+        },
+        {
+            "name": "osi"
+        },
+        {
+            "name": "orcid"
+        },
+        {
+            "name": "optin-monster"
+        },
+        {
+            "name": "opera"
+        },
+        {
+            "name": "openid"
+        },
+        {
+            "name": "opencart"
+        },
+        {
+            "name": "old-republic"
+        },
+        {
+            "name": "odnoklassniki-square"
+        },
+        {
+            "name": "odnoklassniki"
+        },
+        {
+            "name": "octopus-deploy"
+        },
+        {
+            "name": "nutritionix"
+        },
+        {
+            "name": "ns8"
+        },
+        {
+            "name": "npm"
+        },
+        {
+            "name": "node-js"
+        },
+        {
+            "name": "node"
+        },
+        {
+            "name": "nimblr"
+        },
+        {
+            "name": "neos"
+        },
+        {
+            "name": "napster"
+        },
+        {
+            "name": "monero"
+        },
+        {
+            "name": "modx"
+        },
+        {
+            "name": "mizuni"
+        },
+        {
+            "name": "mixer"
+        },
+        {
+            "name": "mixcloud"
+        },
+        {
+            "name": "mix"
+        },
+        {
+            "name": "microsoft"
+        },
+        {
+            "name": "microblog"
+        },
+        {
+            "name": "mendeley"
+        },
+        {
+            "name": "megaport"
+        },
+        {
+            "name": "meetup"
+        },
+        {
+            "name": "medrt"
+        },
+        {
+            "name": "medium-m"
+        },
+        {
+            "name": "medium"
+        },
+        {
+            "name": "medapps"
+        },
+        {
+            "name": "mdb"
+        },
+        {
+            "name": "maxcdn"
+        },
+        {
+            "name": "mastodon"
+        },
+        {
+            "name": "markdown"
+        },
+        {
+            "name": "mandalorian"
+        },
+        {
+            "name": "mailchimp"
+        },
+        {
+            "name": "magento"
+        },
+        {
+            "name": "lyft"
+        },
+        {
+            "name": "linux"
+        },
+        {
+            "name": "linode"
+        },
+        {
+            "name": "linkedin-in"
+        },
+        {
+            "name": "linkedin"
+        },
+        {
+            "name": "line"
+        },
+        {
+            "name": "less"
+        },
+        {
+            "name": "leanpub"
+        },
+        {
+            "name": "lastfm-square"
+        },
+        {
+            "name": "lastfm"
+        },
+        {
+            "name": "laravel"
+        },
+        {
+            "name": "korvue"
+        },
+        {
+            "name": "kickstarter-k"
+        },
+        {
+            "name": "kickstarter"
+        },
+        {
+            "name": "keycdn"
+        },
+        {
+            "name": "keybase"
+        },
+        {
+            "name": "kaggle"
+        },
+        {
+            "name": "jsfiddle"
+        },
+        {
+            "name": "js-square"
+        },
+        {
+            "name": "js"
+        },
+        {
+            "name": "joomla"
+        },
+        {
+            "name": "joget"
+        },
+        {
+            "name": "jira"
+        },
+        {
+            "name": "jenkins"
+        },
+        {
+            "name": "jedi-order"
+        },
+        {
+            "name": "java"
+        },
+        {
+            "name": "itunes-note"
+        },
+        {
+            "name": "itunes"
+        },
+        {
+            "name": "itch-io"
+        },
+        {
+            "name": "ioxhost"
+        },
+        {
+            "name": "invision"
+        },
+        {
+            "name": "internet-explorer"
+        },
+        {
+            "name": "intercom"
+        },
+        {
+            "name": "instalod"
+        },
+        {
+            "name": "instagram-square"
+        },
+        {
+            "name": "instagram"
+        },
+        {
+            "name": "innosoft"
+        },
+        {
+            "name": "imdb"
+        },
+        {
+            "name": "ideal"
+        },
+        {
+            "name": "hubspot"
+        },
+        {
+            "name": "html5"
+        },
+        {
+            "name": "houzz"
+        },
+        {
+            "name": "hotjar"
+        },
+        {
+            "name": "hornbill"
+        },
+        {
+            "name": "hooli"
+        },
+        {
+            "name": "hive"
+        },
+        {
+            "name": "hire-a-helper"
+        },
+        {
+            "name": "hips"
+        },
+        {
+            "name": "hackerrank"
+        },
+        {
+            "name": "hacker-news-square"
+        },
+        {
+            "name": "hacker-news"
+        },
+        {
+            "name": "gulp"
+        },
+        {
+            "name": "guilded"
+        },
+        {
+            "name": "grunt"
+        },
+        {
+            "name": "gripfire"
+        },
+        {
+            "name": "grav"
+        },
+        {
+            "name": "gratipay"
+        },
+        {
+            "name": "google-wallet"
+        },
+        {
+            "name": "google-plus-square"
+        },
+        {
+            "name": "google-plus-g"
+        },
+        {
+            "name": "google-plus"
+        },
+        {
+            "name": "google-play"
+        },
+        {
+            "name": "google-pay"
+        },
+        {
+            "name": "google-drive"
+        },
+        {
+            "name": "google"
+        },
+        {
+            "name": "goodreads-g"
+        },
+        {
+            "name": "goodreads"
+        },
+        {
+            "name": "gofore"
+        },
+        {
+            "name": "glide-g"
+        },
+        {
+            "name": "glide"
+        },
+        {
+            "name": "gitter"
+        },
+        {
+            "name": "gitlab"
+        },
+        {
+            "name": "gitkraken"
+        },
+        {
+            "name": "github-square"
+        },
+        {
+            "name": "github-alt"
+        },
+        {
+            "name": "github"
+        },
+        {
+            "name": "git-square"
+        },
+        {
+            "name": "git-alt"
+        },
+        {
+            "name": "git"
+        },
+        {
+            "name": "gg-circle"
+        },
+        {
+            "name": "gg"
+        },
+        {
+            "name": "get-pocket"
+        },
+        {
+            "name": "galactic-senate"
+        },
+        {
+            "name": "galactic-republic"
+        },
+        {
+            "name": "fulcrum"
+        },
+        {
+            "name": "freebsd"
+        },
+        {
+            "name": "free-code-camp"
+        },
+        {
+            "name": "foursquare"
+        },
+        {
+            "name": "forumbee"
+        },
+        {
+            "name": "fort-awesome-alt"
+        },
+        {
+            "name": "fort-awesome"
+        },
+        {
+            "name": "fonticons-fi"
+        },
+        {
+            "name": "fonticons"
+        },
+        {
+            "name": "font-awesome-flag"
+        },
+        {
+            "name": "font-awesome-alt"
+        },
+        {
+            "name": "font-awesome"
+        },
+        {
+            "name": "fly"
+        },
+        {
+            "name": "flipboard"
+        },
+        {
+            "name": "flickr"
+        },
+        {
+            "name": "firstdraft"
+        },
+        {
+            "name": "first-order-alt"
+        },
+        {
+            "name": "first-order"
+        },
+        {
+            "name": "firefox-browser"
+        },
+        {
+            "name": "firefox"
+        },
+        {
+            "name": "figma"
+        },
+        {
+            "name": "fedora"
+        },
+        {
+            "name": "fedex"
+        },
+        {
+            "name": "fantasy-flight-games"
+        },
+        {
+            "name": "facebook-square"
+        },
+        {
+            "name": "facebook-messenger"
+        },
+        {
+            "name": "facebook-f"
+        },
+        {
+            "name": "facebook"
+        },
+        {
+            "name": "expeditedssl"
+        },
+        {
+            "name": "evernote"
+        },
+        {
+            "name": "etsy"
+        },
+        {
+            "name": "ethereum"
+        },
+        {
+            "name": "erlang"
+        },
+        {
+            "name": "envira"
+        },
+        {
+            "name": "empire"
+        },
+        {
+            "name": "ember"
+        },
+        {
+            "name": "ello"
+        },
+        {
+            "name": "elementor"
+        },
+        {
+            "name": "edge-legacy"
+        },
+        {
+            "name": "edge"
+        },
+        {
+            "name": "ebay"
+        },
+        {
+            "name": "earlybirds"
+        },
+        {
+            "name": "dyalog"
+        },
+        {
+            "name": "drupal"
+        },
+        {
+            "name": "dropbox"
+        },
+        {
+            "name": "dribbble-square"
+        },
+        {
+            "name": "dribbble"
+        },
+        {
+            "name": "draft2digital"
+        },
+        {
+            "name": "docker"
+        },
+        {
+            "name": "dochub"
+        },
+        {
+            "name": "discourse"
+        },
+        {
+            "name": "discord"
+        },
+        {
+            "name": "digital-ocean"
+        },
+        {
+            "name": "digg"
+        },
+        {
+            "name": "diaspora"
+        },
+        {
+            "name": "dhl"
+        },
+        {
+            "name": "deviantart"
+        },
+        {
+            "name": "dev"
+        },
+        {
+            "name": "deskpro"
+        },
+        {
+            "name": "deploydog"
+        },
+        {
+            "name": "delicious"
+        },
+        {
+            "name": "deezer"
+        },
+        {
+            "name": "dashcube"
+        },
+        {
+            "name": "dailymotion"
+        },
+        {
+            "name": "d-and-d-beyond"
+        },
+        {
+            "name": "d-and-d"
+        },
+        {
+            "name": "cuttlefish"
+        },
+        {
+            "name": "css3-alt"
+        },
+        {
+            "name": "css3"
+        },
+        {
+            "name": "critical-role"
+        },
+        {
+            "name": "creative-commons-zero"
+        },
+        {
+            "name": "creative-commons-share"
+        },
+        {
+            "name": "creative-commons-sampling-plus"
+        },
+        {
+            "name": "creative-commons-sampling"
+        },
+        {
+            "name": "creative-commons-sa"
+        },
+        {
+            "name": "creative-commons-remix"
+        },
+        {
+            "name": "creative-commons-pd-alt"
+        },
+        {
+            "name": "creative-commons-pd"
+        },
+        {
+            "name": "creative-commons-nd"
+        },
+        {
+            "name": "creative-commons-nc-jp"
+        },
+        {
+            "name": "creative-commons-nc-eu"
+        },
+        {
+            "name": "creative-commons-nc"
+        },
+        {
+            "name": "creative-commons-by"
+        },
+        {
+            "name": "creative-commons"
+        },
+        {
+            "name": "cpanel"
+        },
+        {
+            "name": "cotton-bureau"
+        },
+        {
+            "name": "contao"
+        },
+        {
+            "name": "connectdevelop"
+        },
+        {
+            "name": "confluence"
+        },
+        {
+            "name": "codiepie"
+        },
+        {
+            "name": "codepen"
+        },
+        {
+            "name": "cloudversify"
+        },
+        {
+            "name": "cloudsmith"
+        },
+        {
+            "name": "cloudscale"
+        },
+        {
+            "name": "cloudflare"
+        },
+        {
+            "name": "chromecast"
+        },
+        {
+            "name": "chrome"
+        },
+        {
+            "name": "centos"
+        },
+        {
+            "name": "centercode"
+        },
+        {
+            "name": "cc-visa"
+        },
+        {
+            "name": "cc-stripe"
+        },
+        {
+            "name": "cc-paypal"
+        },
+        {
+            "name": "cc-mastercard"
+        },
+        {
+            "name": "cc-jcb"
+        },
+        {
+            "name": "cc-discover"
+        },
+        {
+            "name": "cc-diners-club"
+        },
+        {
+            "name": "cc-apple-pay"
+        },
+        {
+            "name": "cc-amex"
+        },
+        {
+            "name": "cc-amazon-pay"
+        },
+        {
+            "name": "canadian-maple-leaf"
+        },
+        {
+            "name": "buysellads"
+        },
+        {
+            "name": "buy-n-large"
+        },
+        {
+            "name": "buromobelexperte"
+        },
+        {
+            "name": "buffer"
+        },
+        {
+            "name": "btc"
+        },
+        {
+            "name": "bootstrap"
+        },
+        {
+            "name": "bluetooth-b"
+        },
+        {
+            "name": "bluetooth"
+        },
+        {
+            "name": "blogger-b"
+        },
+        {
+            "name": "blogger"
+        },
+        {
+            "name": "blackberry"
+        },
+        {
+            "name": "black-tie"
+        },
+        {
+            "name": "bity"
+        },
+        {
+            "name": "bitcoin"
+        },
+        {
+            "name": "bitbucket"
+        },
+        {
+            "name": "bimobject"
+        },
+        {
+            "name": "behance-square"
+        },
+        {
+            "name": "behance"
+        },
+        {
+            "name": "battle-net"
+        },
+        {
+            "name": "bandcamp"
+        },
+        {
+            "name": "aws"
+        },
+        {
+            "name": "aviato"
+        },
+        {
+            "name": "avianex"
+        },
+        {
+            "name": "autoprefixer"
+        },
+        {
+            "name": "audible"
+        },
+        {
+            "name": "atlassian"
+        },
+        {
+            "name": "asymmetrik"
+        },
+        {
+            "name": "artstation"
+        },
+        {
+            "name": "apple-pay"
+        },
+        {
+            "name": "apple"
+        },
+        {
+            "name": "apper"
+        },
+        {
+            "name": "app-store-ios"
+        },
+        {
+            "name": "app-store"
+        },
+        {
+            "name": "angular"
+        },
+        {
+            "name": "angrycreative"
+        },
+        {
+            "name": "angellist"
+        },
+        {
+            "name": "android"
+        },
+        {
+            "name": "amilia"
+        },
+        {
+            "name": "amazon-pay"
+        },
+        {
+            "name": "amazon"
+        },
+        {
+            "name": "alipay"
+        },
+        {
+            "name": "algolia"
+        },
+        {
+            "name": "airbnb"
+        },
+        {
+            "name": "affiliatetheme"
+        },
+        {
+            "name": "adversal"
+        },
+        {
+            "name": "adn"
+        },
+        {
+            "name": "acquisitions-incorporated"
+        },
+        {
+            "name": "accusoft"
+        },
+        {
+            "name": "accessible-icon"
+        },
+        {
+            "name": "500px"
+        }
+    ]
+}

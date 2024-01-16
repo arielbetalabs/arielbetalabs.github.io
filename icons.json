@@ -1,0 +1,3457 @@
+{
+    "icons": [
+        {
+            "name": "yin-yang"
+        },
+        {
+            "name": "yen-sign"
+        },
+        {
+            "name": "x-ray"
+        },
+        {
+            "name": "wrench"
+        },
+        {
+            "name": "won-sign"
+        },
+        {
+            "name": "wine-glass-alt"
+        },
+        {
+            "name": "wine-glass"
+        },
+        {
+            "name": "wine-bottle"
+        },
+        {
+            "name": "window-restore"
+        },
+        {
+            "name": "window-minimize"
+        },
+        {
+            "name": "window-maximize"
+        },
+        {
+            "name": "window-close"
+        },
+        {
+            "name": "wind"
+        },
+        {
+            "name": "wifi"
+        },
+        {
+            "name": "wheelchair"
+        },
+        {
+            "name": "weight-hanging"
+        },
+        {
+            "name": "weight"
+        },
+        {
+            "name": "wave-square"
+        },
+        {
+            "name": "water"
+        },
+        {
+            "name": "warehouse"
+        },
+        {
+            "name": "wallet"
+        },
+        {
+            "name": "walking"
+        },
+        {
+            "name": "vr-cardboard"
+        },
+        {
+            "name": "vote-yea"
+        },
+        {
+            "name": "volume-up"
+        },
+        {
+            "name": "volume-off"
+        },
+        {
+            "name": "volume-mute"
+        },
+        {
+            "name": "volume-down"
+        },
+        {
+            "name": "volleyball-ball"
+        },
+        {
+            "name": "voicemail"
+        },
+        {
+            "name": "viruses"
+        },
+        {
+            "name": "virus-slash"
+        },
+        {
+            "name": "virus"
+        },
+        {
+            "name": "vihara"
+        },
+        {
+            "name": "video-slash"
+        },
+        {
+            "name": "video"
+        },
+        {
+            "name": "vials"
+        },
+        {
+            "name": "vial"
+        },
+        {
+            "name": "vest-patches"
+        },
+        {
+            "name": "vest"
+        },
+        {
+            "name": "venus-mars"
+        },
+        {
+            "name": "venus-double"
+        },
+        {
+            "name": "venus"
+        },
+        {
+            "name": "vector-square"
+        },
+        {
+            "name": "utensils"
+        },
+        {
+            "name": "utensil-spoon"
+        },
+        {
+            "name": "users-slash"
+        },
+        {
+            "name": "users-cog"
+        },
+        {
+            "name": "users"
+        },
+        {
+            "name": "user-times"
+        },
+        {
+            "name": "user-tie"
+        },
+        {
+            "name": "user-tag"
+        },
+        {
+            "name": "user-slash"
+        },
+        {
+            "name": "user-shield"
+        },
+        {
+            "name": "user-secret"
+        },
+        {
+            "name": "user-plus"
+        },
+        {
+            "name": "user-nurse"
+        },
+        {
+            "name": "user-ninja"
+        },
+        {
+            "name": "user-minus"
+        },
+        {
+            "name": "user-md"
+        },
+        {
+            "name": "user-lock"
+        },
+        {
+            "name": "user-injured"
+        },
+        {
+            "name": "user-graduate"
+        },
+        {
+            "name": "user-friends"
+        },
+        {
+            "name": "user-edit"
+        },
+        {
+            "name": "user-cog"
+        },
+        {
+            "name": "user-clock"
+        },
+        {
+            "name": "user-circle"
+        },
+        {
+            "name": "user-check"
+        },
+        {
+            "name": "user-astronaut"
+        },
+        {
+            "name": "user-alt-slash"
+        },
+        {
+            "name": "user-alt"
+        },
+        {
+            "name": "user"
+        },
+        {
+            "name": "upload"
+        },
+        {
+            "name": "unlock-alt"
+        },
+        {
+            "name": "unlock"
+        },
+        {
+            "name": "unlink"
+        },
+        {
+            "name": "university"
+        },
+        {
+            "name": "universal-access"
+        },
+        {
+            "name": "undo-alt"
+        },
+        {
+            "name": "undo"
+        },
+        {
+            "name": "underline"
+        },
+        {
+            "name": "umbrella-beach"
+        },
+        {
+            "name": "umbrella"
+        },
+        {
+            "name": "tv"
+        },
+        {
+            "name": "tty"
+        },
+        {
+            "name": "tshirt"
+        },
+        {
+            "name": "truck-pickup"
+        },
+        {
+            "name": "truck-moving"
+        },
+        {
+            "name": "truck-monster"
+        },
+        {
+            "name": "truck-loading"
+        },
+        {
+            "name": "truck"
+        },
+        {
+            "name": "trophy"
+        },
+        {
+            "name": "tree"
+        },
+        {
+            "name": "trash-restore-alt"
+        },
+        {
+            "name": "trash-restore"
+        },
+        {
+            "name": "trash-alt"
+        },
+        {
+            "name": "trash"
+        },
+        {
+            "name": "transgender-alt"
+        },
+        {
+            "name": "transgender"
+        },
+        {
+            "name": "tram"
+        },
+        {
+            "name": "train"
+        },
+        {
+            "name": "trailer"
+        },
+        {
+            "name": "traffic-light"
+        },
+        {
+            "name": "trademark"
+        },
+        {
+            "name": "tractor"
+        },
+        {
+            "name": "torii-gate"
+        },
+        {
+            "name": "torah"
+        },
+        {
+            "name": "tooth"
+        },
+        {
+            "name": "tools"
+        },
+        {
+            "name": "toolbox"
+        },
+        {
+            "name": "toilet-paper-slash"
+        },
+        {
+            "name": "toilet-paper"
+        },
+        {
+            "name": "toilet"
+        },
+        {
+            "name": "toggle-on"
+        },
+        {
+            "name": "toggle-off"
+        },
+        {
+            "name": "tired"
+        },
+        {
+            "name": "tint-slash"
+        },
+        {
+            "name": "tint"
+        },
+        {
+            "name": "times-circle"
+        },
+        {
+            "name": "times"
+        },
+        {
+            "name": "ticket-alt"
+        },
+        {
+            "name": "thumbtack"
+        },
+        {
+            "name": "thumbs-up"
+        },
+        {
+            "name": "thumbs-down"
+        },
+        {
+            "name": "thermometer-three-quarters"
+        },
+        {
+            "name": "thermometer-quarter"
+        },
+        {
+            "name": "thermometer-half"
+        },
+        {
+            "name": "thermometer-full"
+        },
+        {
+            "name": "thermometer-empty"
+        },
+        {
+            "name": "thermometer"
+        },
+        {
+            "name": "theater-masks"
+        },
+        {
+            "name": "th-list"
+        },
+        {
+            "name": "th-large"
+        },
+        {
+            "name": "th"
+        },
+        {
+            "name": "text-width"
+        },
+        {
+            "name": "text-height"
+        },
+        {
+            "name": "terminal"
+        },
+        {
+            "name": "tenge"
+        },
+        {
+            "name": "temperature-low"
+        },
+        {
+            "name": "temperature-high"
+        },
+        {
+            "name": "teeth-open"
+        },
+        {
+            "name": "teeth"
+        },
+        {
+            "name": "taxi"
+        },
+        {
+            "name": "tasks"
+        },
+        {
+            "name": "tape"
+        },
+        {
+            "name": "tags"
+        },
+        {
+            "name": "tag"
+        },
+        {
+            "name": "tachometer-alt"
+        },
+        {
+            "name": "tablets"
+        },
+        {
+            "name": "tablet-alt"
+        },
+        {
+            "name": "tablet"
+        },
+        {
+            "name": "table-tennis"
+        },
+        {
+            "name": "table"
+        },
+        {
+            "name": "syringe"
+        },
+        {
+            "name": "sync-alt"
+        },
+        {
+            "name": "sync"
+        },
+        {
+            "name": "synagogue"
+        },
+        {
+            "name": "swimming-pool"
+        },
+        {
+            "name": "swimmer"
+        },
+        {
+            "name": "swatchbook"
+        },
+        {
+            "name": "surprise"
+        },
+        {
+            "name": "superscript"
+        },
+        {
+            "name": "sun"
+        },
+        {
+            "name": "suitcase-rolling"
+        },
+        {
+            "name": "suitcase"
+        },
+        {
+            "name": "subway"
+        },
+        {
+            "name": "subscript"
+        },
+        {
+            "name": "stroopwafel"
+        },
+        {
+            "name": "strikethrough"
+        },
+        {
+            "name": "street-view"
+        },
+        {
+            "name": "stream"
+        },
+        {
+            "name": "store-slash"
+        },
+        {
+            "name": "store-alt-slash"
+        },
+        {
+            "name": "store-alt"
+        },
+        {
+            "name": "store"
+        },
+        {
+            "name": "stopwatch-20"
+        },
+        {
+            "name": "stopwatch"
+        },
+        {
+            "name": "stop-circle"
+        },
+        {
+            "name": "stop"
+        },
+        {
+            "name": "sticky-note"
+        },
+        {
+            "name": "stethoscope"
+        },
+        {
+            "name": "step-forward"
+        },
+        {
+            "name": "step-backward"
+        },
+        {
+            "name": "star-of-life"
+        },
+        {
+            "name": "star-of-david"
+        },
+        {
+            "name": "star-half-alt"
+        },
+        {
+            "name": "star-half"
+        },
+        {
+            "name": "star-and-crescent"
+        },
+        {
+            "name": "star"
+        },
+        {
+            "name": "stamp"
+        },
+        {
+            "name": "square-root-alt"
+        },
+        {
+            "name": "square-full"
+        },
+        {
+            "name": "square"
+        },
+        {
+            "name": "spray-can"
+        },
+        {
+            "name": "splotch"
+        },
+        {
+            "name": "spinner"
+        },
+        {
+            "name": "spider"
+        },
+        {
+            "name": "spell-check"
+        },
+        {
+            "name": "space-shuttle"
+        },
+        {
+            "name": "spa"
+        },
+        {
+            "name": "sort-up"
+        },
+        {
+            "name": "sort-numeric-up-alt"
+        },
+        {
+            "name": "sort-numeric-up"
+        },
+        {
+            "name": "sort-numeric-down-alt"
+        },
+        {
+            "name": "sort-numeric-down"
+        },
+        {
+            "name": "sort-down"
+        },
+        {
+            "name": "sort-amount-up-alt"
+        },
+        {
+            "name": "sort-amount-up"
+        },
+        {
+            "name": "sort-amount-down-alt"
+        },
+        {
+            "name": "sort-amount-down"
+        },
+        {
+            "name": "sort-alpha-up-alt"
+        },
+        {
+            "name": "sort-alpha-up"
+        },
+        {
+            "name": "sort-alpha-down-alt"
+        },
+        {
+            "name": "sort-alpha-down"
+        },
+        {
+            "name": "sort"
+        },
+        {
+            "name": "solar-panel"
+        },
+        {
+            "name": "socks"
+        },
+        {
+            "name": "soap"
+        },
+        {
+            "name": "snowplow"
+        },
+        {
+            "name": "snowman"
+        },
+        {
+            "name": "snowflake"
+        },
+        {
+            "name": "snowboarding"
+        },
+        {
+            "name": "sms"
+        },
+        {
+            "name": "smoking-ban"
+        },
+        {
+            "name": "smoking"
+        },
+        {
+            "name": "smog"
+        },
+        {
+            "name": "smile-wink"
+        },
+        {
+            "name": "smile-beam"
+        },
+        {
+            "name": "smile"
+        },
+        {
+            "name": "sliders-h"
+        },
+        {
+            "name": "sleigh"
+        },
+        {
+            "name": "slash"
+        },
+        {
+            "name": "skull-crossbones"
+        },
+        {
+            "name": "skull"
+        },
+        {
+            "name": "skiing-nordic"
+        },
+        {
+            "name": "skiing"
+        },
+        {
+            "name": "skating"
+        },
+        {
+            "name": "sitemap"
+        },
+        {
+            "name": "sink"
+        },
+        {
+            "name": "sim-card"
+        },
+        {
+            "name": "signature"
+        },
+        {
+            "name": "signal"
+        },
+        {
+            "name": "sign-out-alt"
+        },
+        {
+            "name": "sign-language"
+        },
+        {
+            "name": "sign-in-alt"
+        },
+        {
+            "name": "sign"
+        },
+        {
+            "name": "shuttle-van"
+        },
+        {
+            "name": "shower"
+        },
+        {
+            "name": "shopping-cart"
+        },
+        {
+            "name": "shopping-basket"
+        },
+        {
+            "name": "shopping-bag"
+        },
+        {
+            "name": "shoe-prints"
+        },
+        {
+            "name": "shipping-fast"
+        },
+        {
+            "name": "ship"
+        },
+        {
+            "name": "shield-virus"
+        },
+        {
+            "name": "shield-alt"
+        },
+        {
+            "name": "shekel-sign"
+        },
+        {
+            "name": "share-square"
+        },
+        {
+            "name": "share-alt-square"
+        },
+        {
+            "name": "share-alt"
+        },
+        {
+            "name": "share"
+        },
+        {
+            "name": "shapes"
+        },
+        {
+            "name": "server"
+        },
+        {
+            "name": "seedling"
+        },
+        {
+            "name": "search-plus"
+        },
+        {
+            "name": "search-minus"
+        },
+        {
+            "name": "search-location"
+        },
+        {
+            "name": "search-dollar"
+        },
+        {
+            "name": "search"
+        },
+        {
+            "name": "sd-card"
+        },
+        {
+            "name": "scroll"
+        },
+        {
+            "name": "screwdriver"
+        },
+        {
+            "name": "school"
+        },
+        {
+            "name": "save"
+        },
+        {
+            "name": "satellite-dish"
+        },
+        {
+            "name": "satellite"
+        },
+        {
+            "name": "sad-tear"
+        },
+        {
+            "name": "sad-cry"
+        },
+        {
+            "name": "rupee-sign"
+        },
+        {
+            "name": "running"
+        },
+        {
+            "name": "ruler-vertical"
+        },
+        {
+            "name": "ruler-horizontal"
+        },
+        {
+            "name": "ruler-combined"
+        },
+        {
+            "name": "ruler"
+        },
+        {
+            "name": "ruble-sign"
+        },
+        {
+            "name": "rss-square"
+        },
+        {
+            "name": "rss"
+        },
+        {
+            "name": "route"
+        },
+        {
+            "name": "rocket"
+        },
+        {
+            "name": "robot"
+        },
+        {
+            "name": "road"
+        },
+        {
+            "name": "ring"
+        },
+        {
+            "name": "ribbon"
+        },
+        {
+            "name": "retweet"
+        },
+        {
+            "name": "restroom"
+        },
+        {
+            "name": "republican"
+        },
+        {
+            "name": "reply-all"
+        },
+        {
+            "name": "reply"
+        },
+        {
+            "name": "remove-format"
+        },
+        {
+            "name": "registered"
+        },
+        {
+            "name": "redo-alt"
+        },
+        {
+            "name": "redo"
+        },
+        {
+            "name": "recycle"
+        },
+        {
+            "name": "record-vinyl"
+        },
+        {
+            "name": "receipt"
+        },
+        {
+            "name": "random"
+        },
+        {
+            "name": "rainbow"
+        },
+        {
+            "name": "radiation-alt"
+        },
+        {
+            "name": "radiation"
+        },
+        {
+            "name": "quran"
+        },
+        {
+            "name": "quote-right"
+        },
+        {
+            "name": "quote-left"
+        },
+        {
+            "name": "quidditch"
+        },
+        {
+            "name": "question-circle"
+        },
+        {
+            "name": "question"
+        },
+        {
+            "name": "qrcode"
+        },
+        {
+            "name": "puzzle-piece"
+        },
+        {
+            "name": "pump-soap"
+        },
+        {
+            "name": "pump-medical"
+        },
+        {
+            "name": "project-diagram"
+        },
+        {
+            "name": "procedures"
+        },
+        {
+            "name": "print"
+        },
+        {
+            "name": "prescription-bottle-alt"
+        },
+        {
+            "name": "prescription-bottle"
+        },
+        {
+            "name": "prescription"
+        },
+        {
+            "name": "praying-hands"
+        },
+        {
+            "name": "pray"
+        },
+        {
+            "name": "power-off"
+        },
+        {
+            "name": "pound-sign"
+        },
+        {
+            "name": "portrait"
+        },
+        {
+            "name": "poop"
+        },
+        {
+            "name": "poo-storm"
+        },
+        {
+            "name": "poo"
+        },
+        {
+            "name": "poll-h"
+        },
+        {
+            "name": "poll"
+        },
+        {
+            "name": "podcast"
+        },
+        {
+            "name": "plus-square"
+        },
+        {
+            "name": "plus-circle"
+        },
+        {
+            "name": "plus"
+        },
+        {
+            "name": "plug"
+        },
+        {
+            "name": "play-circle"
+        },
+        {
+            "name": "play"
+        },
+        {
+            "name": "plane-slash"
+        },
+        {
+            "name": "plane-departure"
+        },
+        {
+            "name": "plane-arrival"
+        },
+        {
+            "name": "plane"
+        },
+        {
+            "name": "place-of-worship"
+        },
+        {
+            "name": "pizza-slice"
+        },
+        {
+            "name": "pills"
+        },
+        {
+            "name": "piggy-bank"
+        },
+        {
+            "name": "photo-video"
+        },
+        {
+            "name": "phone-volume"
+        },
+        {
+            "name": "phone-square-alt"
+        },
+        {
+            "name": "phone-square"
+        },
+        {
+            "name": "phone-slash"
+        },
+        {
+            "name": "phone-alt"
+        },
+        {
+            "name": "phone"
+        },
+        {
+            "name": "person-booth"
+        },
+        {
+            "name": "percentage"
+        },
+        {
+            "name": "percent"
+        },
+        {
+            "name": "pepper-hot"
+        },
+        {
+            "name": "people-carry"
+        },
+        {
+            "name": "people-arrows"
+        },
+        {
+            "name": "pencil-ruler"
+        },
+        {
+            "name": "pencil-alt"
+        },
+        {
+            "name": "pen-square"
+        },
+        {
+            "name": "pen-nib"
+        },
+        {
+            "name": "pen-fancy"
+        },
+        {
+            "name": "pen-alt"
+        },
+        {
+            "name": "pen"
+        },
+        {
+            "name": "peace"
+        },
+        {
+            "name": "paw"
+        },
+        {
+            "name": "pause-circle"
+        },
+        {
+            "name": "pause"
+        },
+        {
+            "name": "paste"
+        },
+        {
+            "name": "pastafarianism"
+        },
+        {
+            "name": "passport"
+        },
+        {
+            "name": "parking"
+        },
+        {
+            "name": "paragraph"
+        },
+        {
+            "name": "parachute-box"
+        },
+        {
+            "name": "paperclip"
+        },
+        {
+            "name": "paper-plane"
+        },
+        {
+            "name": "pallet"
+        },
+        {
+            "name": "palette"
+        },
+        {
+            "name": "paint-roller"
+        },
+        {
+            "name": "paint-brush"
+        },
+        {
+            "name": "pager"
+        },
+        {
+            "name": "outdent"
+        },
+        {
+            "name": "otter"
+        },
+        {
+            "name": "om"
+        },
+        {
+            "name": "oil-can"
+        },
+        {
+            "name": "object-ungroup"
+        },
+        {
+            "name": "object-group"
+        },
+        {
+            "name": "notes-medical"
+        },
+        {
+            "name": "not-equal"
+        },
+        {
+            "name": "newspaper"
+        },
+        {
+            "name": "neuter"
+        },
+        {
+            "name": "network-wired"
+        },
+        {
+            "name": "music"
+        },
+        {
+            "name": "mug-hot"
+        },
+        {
+            "name": "mouse-pointer"
+        },
+        {
+            "name": "mouse"
+        },
+        {
+            "name": "mountain"
+        },
+        {
+            "name": "motorcycle"
+        },
+        {
+            "name": "mosque"
+        },
+        {
+            "name": "mortar-pestle"
+        },
+        {
+            "name": "moon"
+        },
+        {
+            "name": "monument"
+        },
+        {
+            "name": "money-check-alt"
+        },
+        {
+            "name": "money-check"
+        },
+        {
+            "name": "money-bill-wave-alt"
+        },
+        {
+            "name": "money-bill-wave"
+        },
+        {
+            "name": "money-bill-alt"
+        },
+        {
+            "name": "money-bill"
+        },
+        {
+            "name": "mobile-alt"
+        },
+        {
+            "name": "mobile"
+        },
+        {
+            "name": "mitten"
+        },
+        {
+            "name": "minus-square"
+        },
+        {
+            "name": "minus-circle"
+        },
+        {
+            "name": "minus"
+        },
+        {
+            "name": "microscope"
+        },
+        {
+            "name": "microphone-slash"
+        },
+        {
+            "name": "microphone-alt-slash"
+        },
+        {
+            "name": "microphone-alt"
+        },
+        {
+            "name": "microphone"
+        },
+        {
+            "name": "microchip"
+        },
+        {
+            "name": "meteor"
+        },
+        {
+            "name": "mercury"
+        },
+        {
+            "name": "menorah"
+        },
+        {
+            "name": "memory"
+        },
+        {
+            "name": "meh-rolling-eyes"
+        },
+        {
+            "name": "meh-blank"
+        },
+        {
+            "name": "meh"
+        },
+        {
+            "name": "medkit"
+        },
+        {
+            "name": "medal"
+        },
+        {
+            "name": "mask"
+        },
+        {
+            "name": "mars-stroke-v"
+        },
+        {
+            "name": "mars-stroke-h"
+        },
+        {
+            "name": "mars-stroke"
+        },
+        {
+            "name": "mars-double"
+        },
+        {
+            "name": "mars"
+        },
+        {
+            "name": "marker"
+        },
+        {
+            "name": "map-signs"
+        },
+        {
+            "name": "map-pin"
+        },
+        {
+            "name": "map-marker-alt"
+        },
+        {
+            "name": "map-marker"
+        },
+        {
+            "name": "map-marked-alt"
+        },
+        {
+            "name": "map-marked"
+        },
+        {
+            "name": "map"
+        },
+        {
+            "name": "male"
+        },
+        {
+            "name": "mail-bulk"
+        },
+        {
+            "name": "magnet"
+        },
+        {
+            "name": "magic"
+        },
+        {
+            "name": "lungs-virus"
+        },
+        {
+            "name": "lungs"
+        },
+        {
+            "name": "luggage-cart"
+        },
+        {
+            "name": "low-vision"
+        },
+        {
+            "name": "long-arrow-alt-up"
+        },
+        {
+            "name": "long-arrow-alt-right"
+        },
+        {
+            "name": "long-arrow-alt-left"
+        },
+        {
+            "name": "long-arrow-alt-down"
+        },
+        {
+            "name": "lock-open"
+        },
+        {
+            "name": "lock"
+        },
+        {
+            "name": "location-arrow"
+        },
+        {
+            "name": "list-ul"
+        },
+        {
+            "name": "list-ol"
+        },
+        {
+            "name": "list-alt"
+        },
+        {
+            "name": "list"
+        },
+        {
+            "name": "lira-sign"
+        },
+        {
+            "name": "link"
+        },
+        {
+            "name": "lightbulb"
+        },
+        {
+            "name": "life-ring"
+        },
+        {
+            "name": "level-up-alt"
+        },
+        {
+            "name": "level-down-alt"
+        },
+        {
+            "name": "less-than-equal"
+        },
+        {
+            "name": "less-than"
+        },
+        {
+            "name": "lemon"
+        },
+        {
+            "name": "leaf"
+        },
+        {
+            "name": "layer-group"
+        },
+        {
+            "name": "laugh-wink"
+        },
+        {
+            "name": "laugh-squint"
+        },
+        {
+            "name": "laugh-beam"
+        },
+        {
+            "name": "laugh"
+        },
+        {
+            "name": "laptop-medical"
+        },
+        {
+            "name": "laptop-house"
+        },
+        {
+            "name": "laptop-code"
+        },
+        {
+            "name": "laptop"
+        },
+        {
+            "name": "language"
+        },
+        {
+            "name": "landmark"
+        },
+        {
+            "name": "kiwi-bird"
+        },
+        {
+            "name": "kiss-wink-heart"
+        },
+        {
+            "name": "kiss-beam"
+        },
+        {
+            "name": "kiss"
+        },
+        {
+            "name": "khanda"
+        },
+        {
+            "name": "keyboard"
+        },
+        {
+            "name": "key"
+        },
+        {
+            "name": "kaaba"
+        },
+        {
+            "name": "journal-whills"
+        },
+        {
+            "name": "joint"
+        },
+        {
+            "name": "jedi"
+        },
+        {
+            "name": "italic"
+        },
+        {
+            "name": "info-circle"
+        },
+        {
+            "name": "info"
+        },
+        {
+            "name": "infinity"
+        },
+        {
+            "name": "industry"
+        },
+        {
+            "name": "indent"
+        },
+        {
+            "name": "inbox"
+        },
+        {
+            "name": "images"
+        },
+        {
+            "name": "image"
+        },
+        {
+            "name": "igloo"
+        },
+        {
+            "name": "id-card-alt"
+        },
+        {
+            "name": "id-card"
+        },
+        {
+            "name": "id-badge"
+        },
+        {
+            "name": "icons"
+        },
+        {
+            "name": "icicles"
+        },
+        {
+            "name": "ice-cream"
+        },
+        {
+            "name": "i-cursor"
+        },
+        {
+            "name": "hryvnia"
+        },
+        {
+            "name": "house-user"
+        },
+        {
+            "name": "house-damage"
+        },
+        {
+            "name": "hourglass-start"
+        },
+        {
+            "name": "hourglass-half"
+        },
+        {
+            "name": "hourglass-end"
+        },
+        {
+            "name": "hourglass"
+        },
+        {
+            "name": "hotel"
+        },
+        {
+            "name": "hotdog"
+        },
+        {
+            "name": "hot-tub"
+        },
+        {
+            "name": "hospital-user"
+        },
+        {
+            "name": "hospital-symbol"
+        },
+        {
+            "name": "hospital-alt"
+        },
+        {
+            "name": "hospital"
+        },
+        {
+            "name": "horse-head"
+        },
+        {
+            "name": "horse"
+        },
+        {
+            "name": "home"
+        },
+        {
+            "name": "holly-berry"
+        },
+        {
+            "name": "hockey-puck"
+        },
+        {
+            "name": "history"
+        },
+        {
+            "name": "hippo"
+        },
+        {
+            "name": "hiking"
+        },
+        {
+            "name": "highlighter"
+        },
+        {
+            "name": "helicopter"
+        },
+        {
+            "name": "heartbeat"
+        },
+        {
+            "name": "heart-broken"
+        },
+        {
+            "name": "heart"
+        },
+        {
+            "name": "headset"
+        },
+        {
+            "name": "headphones-alt"
+        },
+        {
+            "name": "headphones"
+        },
+        {
+            "name": "heading"
+        },
+        {
+            "name": "head-side-virus"
+        },
+        {
+            "name": "head-side-mask"
+        },
+        {
+            "name": "head-side-cough-slash"
+        },
+        {
+            "name": "head-side-cough"
+        },
+        {
+            "name": "hdd"
+        },
+        {
+            "name": "hat-wizard"
+        },
+        {
+            "name": "hat-cowboy-side"
+        },
+        {
+            "name": "hat-cowboy"
+        },
+        {
+            "name": "hashtag"
+        },
+        {
+            "name": "hard-hat"
+        },
+        {
+            "name": "hanukiah"
+        },
+        {
+            "name": "handshake-slash"
+        },
+        {
+            "name": "handshake-alt-slash"
+        },
+        {
+            "name": "handshake"
+        },
+        {
+            "name": "hands-wash"
+        },
+        {
+            "name": "hands-helping"
+        },
+        {
+            "name": "hands"
+        },
+        {
+            "name": "hand-spock"
+        },
+        {
+            "name": "hand-sparkles"
+        },
+        {
+            "name": "hand-scissors"
+        },
+        {
+            "name": "hand-rock"
+        },
+        {
+            "name": "hand-pointer"
+        },
+        {
+            "name": "hand-point-up"
+        },
+        {
+            "name": "hand-point-right"
+        },
+        {
+            "name": "hand-point-left"
+        },
+        {
+            "name": "hand-point-down"
+        },
+        {
+            "name": "hand-peace"
+        },
+        {
+            "name": "hand-paper"
+        },
+        {
+            "name": "hand-middle-finger"
+        },
+        {
+            "name": "hand-lizard"
+        },
+        {
+            "name": "hand-holding-water"
+        },
+        {
+            "name": "hand-holding-usd"
+        },
+        {
+            "name": "hand-holding-medical"
+        },
+        {
+            "name": "hand-holding-heart"
+        },
+        {
+            "name": "hand-holding"
+        },
+        {
+            "name": "hamsa"
+        },
+        {
+            "name": "hammer"
+        },
+        {
+            "name": "hamburger"
+        },
+        {
+            "name": "h-square"
+        },
+        {
+            "name": "guitar"
+        },
+        {
+            "name": "grip-vertical"
+        },
+        {
+            "name": "grip-lines-vertical"
+        },
+        {
+            "name": "grip-lines"
+        },
+        {
+            "name": "grip-horizontal"
+        },
+        {
+            "name": "grin-wink"
+        },
+        {
+            "name": "grin-tongue-wink"
+        },
+        {
+            "name": "grin-tongue-squint"
+        },
+        {
+            "name": "grin-tongue"
+        },
+        {
+            "name": "grin-tears"
+        },
+        {
+            "name": "grin-stars"
+        },
+        {
+            "name": "grin-squint-tears"
+        },
+        {
+            "name": "grin-squint"
+        },
+        {
+            "name": "grin-hearts"
+        },
+        {
+            "name": "grin-beam-sweat"
+        },
+        {
+            "name": "grin-beam"
+        },
+        {
+            "name": "grin-alt"
+        },
+        {
+            "name": "grin"
+        },
+        {
+            "name": "grimace"
+        },
+        {
+            "name": "greater-than-equal"
+        },
+        {
+            "name": "greater-than"
+        },
+        {
+            "name": "graduation-cap"
+        },
+        {
+            "name": "gopuram"
+        },
+        {
+            "name": "golf-ball"
+        },
+        {
+            "name": "globe-europe"
+        },
+        {
+            "name": "globe-asia"
+        },
+        {
+            "name": "globe-americas"
+        },
+        {
+            "name": "globe-africa"
+        },
+        {
+            "name": "globe"
+        },
+        {
+            "name": "glasses"
+        },
+        {
+            "name": "glass-whiskey"
+        },
+        {
+            "name": "glass-martini-alt"
+        },
+        {
+            "name": "glass-martini"
+        },
+        {
+            "name": "glass-cheers"
+        },
+        {
+            "name": "gifts"
+        },
+        {
+            "name": "gift"
+        },
+        {
+            "name": "ghost"
+        },
+        {
+            "name": "genderless"
+        },
+        {
+            "name": "gem"
+        },
+        {
+            "name": "gavel"
+        },
+        {
+            "name": "gas-pump"
+        },
+        {
+            "name": "gamepad"
+        },
+        {
+            "name": "futbol"
+        },
+        {
+            "name": "funnel-dollar"
+        },
+        {
+            "name": "frown-open"
+        },
+        {
+            "name": "frown"
+        },
+        {
+            "name": "frog"
+        },
+        {
+            "name": "forward"
+        },
+        {
+            "name": "football-ball"
+        },
+        {
+            "name": "font"
+        },
+        {
+            "name": "folder-plus"
+        },
+        {
+            "name": "folder-open"
+        },
+        {
+            "name": "folder-minus"
+        },
+        {
+            "name": "folder"
+        },
+        {
+            "name": "flushed"
+        },
+        {
+            "name": "flask"
+        },
+        {
+            "name": "flag-usa"
+        },
+        {
+            "name": "flag-checkered"
+        },
+        {
+            "name": "flag"
+        },
+        {
+            "name": "fist-raised"
+        },
+        {
+            "name": "fish"
+        },
+        {
+            "name": "first-aid"
+        },
+        {
+            "name": "fire-extinguisher"
+        },
+        {
+            "name": "fire-alt"
+        },
+        {
+            "name": "fire"
+        },
+        {
+            "name": "fingerprint"
+        },
+        {
+            "name": "filter"
+        },
+        {
+            "name": "film"
+        },
+        {
+            "name": "fill-drip"
+        },
+        {
+            "name": "fill"
+        },
+        {
+            "name": "file-word"
+        },
+        {
+            "name": "file-video"
+        },
+        {
+            "name": "file-upload"
+        },
+        {
+            "name": "file-signature"
+        },
+        {
+            "name": "file-prescription"
+        },
+        {
+            "name": "file-powerpoint"
+        },
+        {
+            "name": "file-pdf"
+        },
+        {
+            "name": "file-medical-alt"
+        },
+        {
+            "name": "file-medical"
+        },
+        {
+            "name": "file-invoice-dollar"
+        },
+        {
+            "name": "file-invoice"
+        },
+        {
+            "name": "file-import"
+        },
+        {
+            "name": "file-image"
+        },
+        {
+            "name": "file-export"
+        },
+        {
+            "name": "file-excel"
+        },
+        {
+            "name": "file-download"
+        },
+        {
+            "name": "file-csv"
+        },
+        {
+            "name": "file-contract"
+        },
+        {
+            "name": "file-code"
+        },
+        {
+            "name": "file-audio"
+        },
+        {
+            "name": "file-archive"
+        },
+        {
+            "name": "file-alt"
+        },
+        {
+            "name": "file"
+        },
+        {
+            "name": "fighter-jet"
+        },
+        {
+            "name": "female"
+        },
+        {
+            "name": "feather-alt"
+        },
+        {
+            "name": "feather"
+        },
+        {
+            "name": "fax"
+        },
+        {
+            "name": "faucet"
+        },
+        {
+            "name": "fast-forward"
+        },
+        {
+            "name": "fast-backward"
+        },
+        {
+            "name": "fan"
+        },
+        {
+            "name": "eye-slash"
+        },
+        {
+            "name": "eye-dropper"
+        },
+        {
+            "name": "eye"
+        },
+        {
+            "name": "external-link-square-alt"
+        },
+        {
+            "name": "external-link-alt"
+        },
+        {
+            "name": "expand-arrows-alt"
+        },
+        {
+            "name": "expand-alt"
+        },
+        {
+            "name": "expand"
+        },
+        {
+            "name": "exclamation-triangle"
+        },
+        {
+            "name": "exclamation-circle"
+        },
+        {
+            "name": "exclamation"
+        },
+        {
+            "name": "exchange-alt"
+        },
+        {
+            "name": "euro-sign"
+        },
+        {
+            "name": "ethernet"
+        },
+        {
+            "name": "eraser"
+        },
+        {
+            "name": "equals"
+        },
+        {
+            "name": "envelope-square"
+        },
+        {
+            "name": "envelope-open-text"
+        },
+        {
+            "name": "envelope-open"
+        },
+        {
+            "name": "envelope"
+        },
+        {
+            "name": "ellipsis-v"
+        },
+        {
+            "name": "ellipsis-h"
+        },
+        {
+            "name": "eject"
+        },
+        {
+            "name": "egg"
+        },
+        {
+            "name": "edit"
+        },
+        {
+            "name": "dungeon"
+        },
+        {
+            "name": "dumpster-fire"
+        },
+        {
+            "name": "dumpster"
+        },
+        {
+            "name": "dumbbell"
+        },
+        {
+            "name": "drumstick-bite"
+        },
+        {
+            "name": "drum"
+        },
+        {
+            "name": "draw-polygon"
+        },
+        {
+            "name": "dragon"
+        },
+        {
+            "name": "drafting-compass"
+        },
+        {
+            "name": "download"
+        },
+        {
+            "name": "dove"
+        },
+        {
+            "name": "dot-circle"
+        },
+        {
+            "name": "door-open"
+        },
+        {
+            "name": "door-closed"
+        },
+        {
+            "name": "donate"
+        },
+        {
+            "name": "dolly-flatbed"
+        },
+        {
+            "name": "dolly"
+        },
+        {
+            "name": "dollar-sign"
+        },
+        {
+            "name": "dog"
+        },
+        {
+            "name": "dna"
+        },
+        {
+            "name": "dizzy"
+        },
+        {
+            "name": "divide"
+        },
+        {
+            "name": "disease"
+        },
+        {
+            "name": "directions"
+        },
+        {
+            "name": "digital-tachograph"
+        },
+        {
+            "name": "dice-two"
+        },
+        {
+            "name": "dice-three"
+        },
+        {
+            "name": "dice-six"
+        },
+        {
+            "name": "dice-one"
+        },
+        {
+            "name": "dice-four"
+        },
+        {
+            "name": "dice-five"
+        },
+        {
+            "name": "dice-d6"
+        },
+        {
+            "name": "dice-d20"
+        },
+        {
+            "name": "dice"
+        },
+        {
+            "name": "diagnoses"
+        },
+        {
+            "name": "dharmachakra"
+        },
+        {
+            "name": "desktop"
+        },
+        {
+            "name": "democrat"
+        },
+        {
+            "name": "deaf"
+        },
+        {
+            "name": "database"
+        },
+        {
+            "name": "cut"
+        },
+        {
+            "name": "cubes"
+        },
+        {
+            "name": "cube"
+        },
+        {
+            "name": "crutch"
+        },
+        {
+            "name": "crown"
+        },
+        {
+            "name": "crow"
+        },
+        {
+            "name": "crosshairs"
+        },
+        {
+            "name": "cross"
+        },
+        {
+            "name": "crop-alt"
+        },
+        {
+            "name": "crop"
+        },
+        {
+            "name": "credit-card"
+        },
+        {
+            "name": "couch"
+        },
+        {
+            "name": "copyright"
+        },
+        {
+            "name": "copy"
+        },
+        {
+            "name": "cookie-bite"
+        },
+        {
+            "name": "cookie"
+        },
+        {
+            "name": "concierge-bell"
+        },
+        {
+            "name": "compress-arrows-alt"
+        },
+        {
+            "name": "compress-alt"
+        },
+        {
+            "name": "compress"
+        },
+        {
+            "name": "compass"
+        },
+        {
+            "name": "compact-disc"
+        },
+        {
+            "name": "comments-dollar"
+        },
+        {
+            "name": "comments"
+        },
+        {
+            "name": "comment-slash"
+        },
+        {
+            "name": "comment-medical"
+        },
+        {
+            "name": "comment-dots"
+        },
+        {
+            "name": "comment-dollar"
+        },
+        {
+            "name": "comment-alt"
+        },
+        {
+            "name": "comment"
+        },
+        {
+            "name": "columns"
+        },
+        {
+            "name": "coins"
+        },
+        {
+            "name": "cogs"
+        },
+        {
+            "name": "cog"
+        },
+        {
+            "name": "coffee"
+        },
+        {
+            "name": "code-branch"
+        },
+        {
+            "name": "code"
+        },
+        {
+            "name": "cocktail"
+        },
+        {
+            "name": "cloud-upload-alt"
+        },
+        {
+            "name": "cloud-sun-rain"
+        },
+        {
+            "name": "cloud-sun"
+        },
+        {
+            "name": "cloud-showers-heavy"
+        },
+        {
+            "name": "cloud-rain"
+        },
+        {
+            "name": "cloud-moon-rain"
+        },
+        {
+            "name": "cloud-moon"
+        },
+        {
+            "name": "cloud-meatball"
+        },
+        {
+            "name": "cloud-download-alt"
+        },
+        {
+            "name": "cloud"
+        },
+        {
+            "name": "closed-captioning"
+        },
+        {
+            "name": "clone"
+        },
+        {
+            "name": "clock"
+        },
+        {
+            "name": "clipboard-list"
+        },
+        {
+            "name": "clipboard-check"
+        },
+        {
+            "name": "clipboard"
+        },
+        {
+            "name": "clinic-medical"
+        },
+        {
+            "name": "city"
+        },
+        {
+            "name": "circle-notch"
+        },
+        {
+            "name": "circle"
+        },
+        {
+            "name": "church"
+        },
+        {
+            "name": "child"
+        },
+        {
+            "name": "chevron-up"
+        },
+        {
+            "name": "chevron-right"
+        },
+        {
+            "name": "chevron-left"
+        },
+        {
+            "name": "chevron-down"
+        },
+        {
+            "name": "chevron-circle-up"
+        },
+        {
+            "name": "chevron-circle-right"
+        },
+        {
+            "name": "chevron-circle-left"
+        },
+        {
+            "name": "chevron-circle-down"
+        },
+        {
+            "name": "chess-rook"
+        },
+        {
+            "name": "chess-queen"
+        },
+        {
+            "name": "chess-pawn"
+        },
+        {
+            "name": "chess-knight"
+        },
+        {
+            "name": "chess-king"
+        },
+        {
+            "name": "chess-board"
+        },
+        {
+            "name": "chess-bishop"
+        },
+        {
+            "name": "chess"
+        },
+        {
+            "name": "cheese"
+        },
+        {
+            "name": "check-square"
+        },
+        {
+            "name": "check-double"
+        },
+        {
+            "name": "check-circle"
+        },
+        {
+            "name": "check"
+        },
+        {
+            "name": "chart-pie"
+        },
+        {
+            "name": "chart-line"
+        },
+        {
+            "name": "chart-bar"
+        },
+        {
+            "name": "chart-area"
+        },
+        {
+            "name": "charging-station"
+        },
+        {
+            "name": "chalkboard-teacher"
+        },
+        {
+            "name": "chalkboard"
+        },
+        {
+            "name": "chair"
+        },
+        {
+            "name": "certificate"
+        },
+        {
+            "name": "cat"
+        },
+        {
+            "name": "cash-register"
+        },
+        {
+            "name": "cart-plus"
+        },
+        {
+            "name": "cart-arrow-down"
+        },
+        {
+            "name": "carrot"
+        },
+        {
+            "name": "caret-up"
+        },
+        {
+            "name": "caret-square-up"
+        },
+        {
+            "name": "caret-square-right"
+        },
+        {
+            "name": "caret-square-left"
+        },
+        {
+            "name": "caret-square-down"
+        },
+        {
+            "name": "caret-right"
+        },
+        {
+            "name": "caret-left"
+        },
+        {
+            "name": "caret-down"
+        },
+        {
+            "name": "caravan"
+        },
+        {
+            "name": "car-side"
+        },
+        {
+            "name": "car-crash"
+        },
+        {
+            "name": "car-battery"
+        },
+        {
+            "name": "car-alt"
+        },
+        {
+            "name": "car"
+        },
+        {
+            "name": "capsules"
+        },
+        {
+            "name": "cannabis"
+        },
+        {
+            "name": "candy-cane"
+        },
+        {
+            "name": "campground"
+        },
+        {
+            "name": "camera-retro"
+        },
+        {
+            "name": "camera"
+        },
+        {
+            "name": "calendar-week"
+        },
+        {
+            "name": "calendar-times"
+        },
+        {
+            "name": "calendar-plus"
+        },
+        {
+            "name": "calendar-minus"
+        },
+        {
+            "name": "calendar-day"
+        },
+        {
+            "name": "calendar-check"
+        },
+        {
+            "name": "calendar-alt"
+        },
+        {
+            "name": "calendar"
+        },
+        {
+            "name": "calculator"
+        },
+        {
+            "name": "business-time"
+        },
+        {
+            "name": "bus-alt"
+        },
+        {
+            "name": "bus"
+        },
+        {
+            "name": "burn"
+        },
+        {
+            "name": "bullseye"
+        },
+        {
+            "name": "bullhorn"
+        },
+        {
+            "name": "building"
+        },
+        {
+            "name": "bug"
+        },
+        {
+            "name": "brush"
+        },
+        {
+            "name": "broom"
+        },
+        {
+            "name": "broadcast-tower"
+        },
+        {
+            "name": "briefcase-medical"
+        },
+        {
+            "name": "briefcase"
+        },
+        {
+            "name": "bread-slice"
+        },
+        {
+            "name": "brain"
+        },
+        {
+            "name": "braille"
+        },
+        {
+            "name": "boxes"
+        },
+        {
+            "name": "box-tissue"
+        },
+        {
+            "name": "box-open"
+        },
+        {
+            "name": "box"
+        },
+        {
+            "name": "bowling-ball"
+        },
+        {
+            "name": "border-style"
+        },
+        {
+            "name": "border-none"
+        },
+        {
+            "name": "border-all"
+        },
+        {
+            "name": "bookmark"
+        },
+        {
+            "name": "book-reader"
+        },
+        {
+            "name": "book-open"
+        },
+        {
+            "name": "book-medical"
+        },
+        {
+            "name": "book-dead"
+        },
+        {
+            "name": "book"
+        },
+        {
+            "name": "bong"
+        },
+        {
+            "name": "bone"
+        },
+        {
+            "name": "bomb"
+        },
+        {
+            "name": "bolt"
+        },
+        {
+            "name": "bold"
+        },
+        {
+            "name": "blog"
+        },
+        {
+            "name": "blind"
+        },
+        {
+            "name": "blender-phone"
+        },
+        {
+            "name": "blender"
+        },
+        {
+            "name": "birthday-cake"
+        },
+        {
+            "name": "biohazard"
+        },
+        {
+            "name": "binoculars"
+        },
+        {
+            "name": "biking"
+        },
+        {
+            "name": "bicycle"
+        },
+        {
+            "name": "bible"
+        },
+        {
+            "name": "bezier-curve"
+        },
+        {
+            "name": "bell-slash"
+        },
+        {
+            "name": "bell"
+        },
+        {
+            "name": "beer"
+        },
+        {
+            "name": "bed"
+        },
+        {
+            "name": "battery-three-quarters"
+        },
+        {
+            "name": "battery-quarter"
+        },
+        {
+            "name": "battery-half"
+        },
+        {
+            "name": "battery-full"
+        },
+        {
+            "name": "battery-empty"
+        },
+        {
+            "name": "bath"
+        },
+        {
+            "name": "basketball-ball"
+        },
+        {
+            "name": "baseball-ball"
+        },
+        {
+            "name": "bars"
+        },
+        {
+            "name": "barcode"
+        },
+        {
+            "name": "band-aid"
+        },
+        {
+            "name": "ban"
+        },
+        {
+            "name": "balance-scale-right"
+        },
+        {
+            "name": "balance-scale-left"
+        },
+        {
+            "name": "balance-scale"
+        },
+        {
+            "name": "bahai"
+        },
+        {
+            "name": "bacterium"
+        },
+        {
+            "name": "bacteria"
+        },
+        {
+            "name": "bacon"
+        },
+        {
+            "name": "backward"
+        },
+        {
+            "name": "backspace"
+        },
+        {
+            "name": "baby-carriage"
+        },
+        {
+            "name": "baby"
+        },
+        {
+            "name": "award"
+        },
+        {
+            "name": "audio-description"
+        },
+        {
+            "name": "atom"
+        },
+        {
+            "name": "atlas"
+        },
+        {
+            "name": "at"
+        },
+        {
+            "name": "asterisk"
+        },
+        {
+            "name": "assistive-listening-systems"
+        },
+        {
+            "name": "arrows-alt-v"
+        },
+        {
+            "name": "arrows-alt-h"
+        },
+        {
+            "name": "arrows-alt"
+        },
+        {
+            "name": "arrow-up"
+        },
+        {
+            "name": "arrow-right"
+        },
+        {
+            "name": "arrow-left"
+        },
+        {
+            "name": "arrow-down"
+        },
+        {
+            "name": "arrow-circle-up"
+        },
+        {
+            "name": "arrow-circle-right"
+        },
+        {
+            "name": "arrow-circle-left"
+        },
+        {
+            "name": "arrow-circle-down"
+        },
+        {
+            "name": "arrow-alt-circle-up"
+        },
+        {
+            "name": "arrow-alt-circle-right"
+        },
+        {
+            "name": "arrow-alt-circle-left"
+        },
+        {
+            "name": "arrow-alt-circle-down"
+        },
+        {
+            "name": "archway"
+        },
+        {
+            "name": "archive"
+        },
+        {
+            "name": "apple-alt"
+        },
+        {
+            "name": "ankh"
+        },
+        {
+            "name": "angry"
+        },
+        {
+            "name": "angle-up"
+        },
+        {
+            "name": "angle-right"
+        },
+        {
+            "name": "angle-left"
+        },
+        {
+            "name": "angle-down"
+        },
+        {
+            "name": "angle-double-up"
+        },
+        {
+            "name": "angle-double-right"
+        },
+        {
+            "name": "angle-double-left"
+        },
+        {
+            "name": "angle-double-down"
+        },
+        {
+            "name": "anchor"
+        },
+        {
+            "name": "american-sign-language-interpreting"
+        },
+        {
+            "name": "ambulance"
+        },
+        {
+            "name": "allergies"
+        },
+        {
+            "name": "align-right"
+        },
+        {
+            "name": "align-left"
+        },
+        {
+            "name": "align-justify"
+        },
+        {
+            "name": "align-center"
+        },
+        {
+            "name": "air-freshener"
+        },
+        {
+            "name": "adjust"
+        },
+        {
+            "name": "address-card"
+        },
+        {
+            "name": "address-book"
+        },
+        {
+            "name": "ad"
+        },
+        {
+            "name": "window-restore"
+        },
+        {
+            "name": "window-minimize"
+        },
+        {
+            "name": "window-maximize"
+        },
+        {
+            "name": "window-close"
+        },
+        {
+            "name": "user-circle"
+        },
+        {
+            "name": "user"
+        },
+        {
+            "name": "trash-alt"
+        },
+        {
+            "name": "tired"
+        },
+        {
+            "name": "times-circle"
+        },
+        {
+            "name": "thumbs-up"
+        },
+        {
+            "name": "thumbs-down"
+        },
+        {
+            "name": "surprise"
+        },
+        {
+            "name": "sun"
+        },
+        {
+            "name": "stop-circle"
+        },
+        {
+            "name": "sticky-note"
+        },
+        {
+            "name": "star-half"
+        },
+        {
+            "name": "star"
+        },
+        {
+            "name": "square"
+        },
+        {
+            "name": "snowflake"
+        },
+        {
+            "name": "smile-wink"
+        },
+        {
+            "name": "smile-beam"
+        },
+        {
+            "name": "smile"
+        },
+        {
+            "name": "share-square"
+        },
+        {
+            "name": "save"
+        },
+        {
+            "name": "sad-tear"
+        },
+        {
+            "name": "sad-cry"
+        },
+        {
+            "name": "registered"
+        },
+        {
+            "name": "question-circle"
+        },
+        {
+            "name": "plus-square"
+        },
+        {
+            "name": "play-circle"
+        },
+        {
+            "name": "pause-circle"
+        },
+        {
+            "name": "paper-plane"
+        },
+        {
+            "name": "object-ungroup"
+        },
+        {
+            "name": "object-group"
+        },
+        {
+            "name": "newspaper"
+        },
+        {
+            "name": "moon"
+        },
+        {
+            "name": "money-bill-alt"
+        },
+        {
+            "name": "minus-square"
+        },
+        {
+            "name": "meh-rolling-eyes"
+        },
+        {
+            "name": "meh-blank"
+        },
+        {
+            "name": "meh"
+        },
+        {
+            "name": "map"
+        },
+        {
+            "name": "list-alt"
+        },
+        {
+            "name": "lightbulb"
+        },
+        {
+            "name": "life-ring"
+        },
+        {
+            "name": "lemon"
+        },
+        {
+            "name": "laugh-wink"
+        },
+        {
+            "name": "laugh-squint"
+        },
+        {
+            "name": "laugh-beam"
+        },
+        {
+            "name": "laugh"
+        },
+        {
+            "name": "kiss-wink-heart"
+        },
+        {
+            "name": "kiss-beam"
+        },
+        {
+            "name": "kiss"
+        },
+        {
+            "name": "keyboard"
+        },
+        {
+            "name": "images"
+        },
+        {
+            "name": "image"
+        },
+        {
+            "name": "id-card"
+        },
+        {
+            "name": "id-badge"
+        },
+        {
+            "name": "hourglass"
+        },
+        {
+            "name": "hospital"
+        },
+        {
+            "name": "heart"
+        },
+        {
+            "name": "hdd"
+        },
+        {
+            "name": "handshake"
+        },
+        {
+            "name": "hand-spock"
+        },
+        {
+            "name": "hand-scissors"
+        },
+        {
+            "name": "hand-rock"
+        },
+        {
+            "name": "hand-pointer"
+        },
+        {
+            "name": "hand-point-up"
+        },
+        {
+            "name": "hand-point-right"
+        },
+        {
+            "name": "hand-point-left"
+        },
+        {
+            "name": "hand-point-down"
+        },
+        {
+            "name": "hand-peace"
+        },
+        {
+            "name": "hand-paper"
+        },
+        {
+            "name": "hand-lizard"
+        },
+        {
+            "name": "grin-wink"
+        },
+        {
+            "name": "grin-tongue-wink"
+        },
+        {
+            "name": "grin-tongue-squint"
+        },
+        {
+            "name": "grin-tongue"
+        },
+        {
+            "name": "grin-tears"
+        },
+        {
+            "name": "grin-stars"
+        },
+        {
+            "name": "grin-squint-tears"
+        },
+        {
+            "name": "grin-squint"
+        },
+        {
+            "name": "grin-hearts"
+        },
+        {
+            "name": "grin-beam-sweat"
+        },
+        {
+            "name": "grin-beam"
+        },
+        {
+            "name": "grin-alt"
+        },
+        {
+            "name": "grin"
+        },
+        {
+            "name": "grimace"
+        },
+        {
+            "name": "gem"
+        },
+        {
+            "name": "futbol"
+        },
+        {
+            "name": "frown-open"
+        },
+        {
+            "name": "frown"
+        },
+        {
+            "name": "folder-open"
+        },
+        {
+            "name": "folder"
+        },
+        {
+            "name": "flushed"
+        },
+        {
+            "name": "flag"
+        },
+        {
+            "name": "file-word"
+        },
+        {
+            "name": "file-video"
+        },
+        {
+            "name": "file-powerpoint"
+        },
+        {
+            "name": "file-pdf"
+        },
+        {
+            "name": "file-image"
+        },
+        {
+            "name": "file-excel"
+        },
+        {
+            "name": "file-code"
+        },
+        {
+            "name": "file-audio"
+        },
+        {
+            "name": "file-archive"
+        },
+        {
+            "name": "file-alt"
+        },
+        {
+            "name": "file"
+        },
+        {
+            "name": "eye-slash"
+        },
+        {
+            "name": "eye"
+        },
+        {
+            "name": "envelope-open"
+        },
+        {
+            "name": "envelope"
+        },
+        {
+            "name": "edit"
+        },
+        {
+            "name": "dot-circle"
+        },
+        {
+            "name": "dizzy"
+        },
+        {
+            "name": "credit-card"
+        },
+        {
+            "name": "copyright"
+        },
+        {
+            "name": "copy"
+        },
+        {
+            "name": "compass"
+        },
+        {
+            "name": "comments"
+        },
+        {
+            "name": "comment-dots"
+        },
+        {
+            "name": "comment-alt"
+        },
+        {
+            "name": "comment"
+        },
+        {
+            "name": "closed-captioning"
+        },
+        {
+            "name": "clone"
+        },
+        {
+            "name": "clock"
+        },
+        {
+            "name": "clipboard"
+        },
+        {
+            "name": "circle"
+        },
+        {
+            "name": "check-square"
+        },
+        {
+            "name": "check-circle"
+        },
+        {
+            "name": "chart-bar"
+        },
+        {
+            "name": "caret-square-up"
+        },
+        {
+            "name": "caret-square-right"
+        },
+        {
+            "name": "caret-square-left"
+        },
+        {
+            "name": "caret-square-down"
+        },
+        {
+            "name": "calendar-times"
+        },
+        {
+            "name": "calendar-plus"
+        },
+        {
+            "name": "calendar-minus"
+        },
+        {
+            "name": "calendar-check"
+        },
+        {
+            "name": "calendar-alt"
+        },
+        {
+            "name": "calendar"
+        },
+        {
+            "name": "building"
+        },
+        {
+            "name": "bookmark"
+        },
+        {
+            "name": "bell-slash"
+        },
+        {
+            "name": "bell"
+        },
+        {
+            "name": "arrow-alt-circle-up"
+        },
+        {
+            "name": "arrow-alt-circle-right"
+        },
+        {
+            "name": "arrow-alt-circle-left"
+        },
+        {
+            "name": "arrow-alt-circle-down"
+        },
+        {
+            "name": "angry"
+        },
+        {
+            "name": "address-card"
+        },
+        {
+            "name": "address-book"
+        }
+    ]
+}
